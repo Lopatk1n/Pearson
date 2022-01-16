@@ -34,7 +34,7 @@
      "id":1
      }
  ```
- - Отправляем запрос на получение *токена* POST http://localhost:8088/auth/token/login/  в теле запроса передаем JSON:
+ - Отправляем запрос на получение *токена* POST http://localhost:8000/auth/token/login/  в теле запроса передаем JSON:
  ```
  {
      "username": "first_user",
